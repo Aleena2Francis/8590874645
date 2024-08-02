@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Aleena Francis
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java programming.
-- 📫 Reach me via linkedin:aleena-francis-440247227
+- 👀 I’m interested in ML and python programming.
+- 🌱 I’m currently learning Machine Learning.
+- 📫 Reach me via linkedin:https://www.linkedin.com/in/aleena-francis100203/
 
 <!---
 8590874645/8590874645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
